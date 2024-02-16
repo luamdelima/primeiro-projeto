@@ -4,10 +4,11 @@
 }
 
 .cabeçalho {
-    background-color: #A6E388;
+    background-color: #b3d4a2;
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .cabeçalho-imagem{
@@ -16,4 +17,21 @@
 
 .cabeçalho-lista-item{
     font-size: 24px;
+}
+.neymar-imagem{
+    width: 40%;
+}
+.biografia{
+    background-image: linear-gradient(#b3d4a2,#48b97b);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8% 0;
+}
+
+.neymar-div-conteudo{
+    width: 35%;
+}
+.biografia-de-neymar-titulo{
+    padding: 10% 0;
 }
