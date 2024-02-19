@@ -35,3 +35,33 @@
 .biografia-de-neymar-titulo{
     padding: 10% 0;
 }
+.neymar-santos{
+    width: 20%;
+}
+
+.neymar-barcelona{
+    width: 20%;
+}
+
+.neymar-psg{
+    width: 20%;
+}
+
+.titulos-neymar{
+    text-align: center;
+    padding: 50px 0;
+}
+  
+.imagems-neymar-todas{
+    display: flex;
+    justify-content: space-around;
+}
+.rodape{
+    background-color: #b3d4a2;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px;
+}
